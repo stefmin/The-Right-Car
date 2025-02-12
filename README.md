@@ -1,20 +1,19 @@
-## **Condiții prealabile**  
+## **Prerequisites**  
 
-  Este necesar să aveți instalat python 3.
+  You need to have Python 3 installed.
 
-## **Pentru rularea programului**
+## **Running the Program**
 
-  Executați fișierul "gui.bat".
-  
-  Acesta va instala local dependințele necesare pentru rulare și librăriile folosite.
-  
-  Așteptați finalizarea descărcării acestora!
-  
-  Programul va fi lansat automat la final.
-  
-  Descărcarea dependințelor va avea loc doar la prima rulare a aplicației.
+  Run the "gui.bat" file.
 
-## **Observații finale**
+  This will locally install the necessary dependencies for execution and the required libraries.
 
-  Fișierul de tip bat poate rula doar pe un sistem de operare Windows. Acesta a fost creat strict pentru a încărca o formă executabilă a proiectului pe GitHub. 
-În scopul extinderii accesibilității aplicației, am creat fișiere ce permit executarea codului și pe alte sisteme de operare. 
+  Wait for the installation to complete!
+
+  The program will launch automatically upon completion.
+
+  The dependencies will only be downloaded during the first run of the application.
+
+## **Final Remarks**
+
+  The .bat file can only run on a Windows operating system. It was created solely to load an executable version of the project on GitHub. To enhance the accessibility of the application, we have created files that allow the code to be executed on other operating systems as well. 
